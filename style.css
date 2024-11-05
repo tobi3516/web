@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+.topnav {
+    font-size: 25px;
+    background-color:lightblue;
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+    text-decoration: none;
+   
+}
+.topnav a {
+color: black;
+width: 600px;
+}
+#aufgaben:hover {
+    background-color: rgb(84, 151, 222);
+    color: black;   
+}
+#aufgaben{
+    height: 50px; 
+    width: 600px;
+    border: 1px solid black;
+    font-size: 30px;
+    
+}
+#underline {
+    text-decoration: none;
+}
